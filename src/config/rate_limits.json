@@ -1,0 +1,16 @@
+{
+    "baseline_limits": {
+      "STD": {
+        "/payment-gateway": 100,  
+        "/browse": 500
+      },
+      "PRM": {
+        "/payment-gateway": 1000,
+        "/browse": 2000
+      }
+    },
+    "adjustment_rules": {
+      "high_traffic_multiplier": 0.5,
+      "anomaly_multiplier": 0.1        
+    }
+  }
