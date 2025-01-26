@@ -1,4 +1,3 @@
-```markdown
 # AI-Powered Adaptive API Rate Limiting System
 
 An intelligent API rate-limiting system that uses LSTM for traffic prediction and Isolation Forest for anomaly detection to dynamically adjust rate limits.
